@@ -1,4 +1,4 @@
-# Autoformer (NeurIPS 2021)
+# Autoformer (NeurIPS 2021) refactored by mindspore and mindspore
 
 Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting
 
